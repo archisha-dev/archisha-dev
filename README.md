@@ -1,5 +1,4 @@
 # 👋Hey, I'm Archisha
-## A passionate developer and a dynamic tech enthusiast with a drive to explore and build. 
 ## Constantly learning and pushing boundaries are what fuel my fire.
 ◉ Pursuing my Bachelor's in Computer Science and Engineering at Mumbai University, I'm passionate about evolving in the tech landscape.
 
